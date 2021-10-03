@@ -1,0 +1,16 @@
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\Visa Number Barcode Generator.exe.config
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\Visa Number Barcode Generator.exe
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\Visa Number Barcode Generator.pdb
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.csprojAssemblyReference.cache
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa_Number_Barcode_Generator.Form1.resources
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa_Number_Barcode_Generator.Properties.Resources.resources
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.csproj.GenerateResource.cache
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.csproj.CopyComplete
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.exe
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\obj\Debug\Visa Number Barcode Generator.pdb
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\itextsharp.dll
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\itextsharp.pdfa.dll
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\itextsharp.xtra.dll
+C:\Users\nabil mohd\source\repos\Visa Number Barcode Generator\Visa Number Barcode Generator\bin\Debug\itextsharp.xml
